@@ -1,4 +1,8 @@
 <h1>Dashboard de Gestão de Vendas em Power BI</h1>
+</br>
+<img src="/assets/layout.png" alt="Preview do Dashboard de Vendas" width="500" height="600">
+</br>
+
 
 <h2>Objetivo</h2>
 
