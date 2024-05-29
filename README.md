@@ -10,23 +10,14 @@ O dashboard de Gestão de Vendas tem como objetivo fornecer uma visão geral do 
 
 <h2>Layout</h2>
 
-O dashboard é composto por três seções:
+O dashboard é composto por: </br> 
+- Faturamento total da empresa no período selecionado exibido em um grande número no centro da seção. </br>
+- O ticket médio é exibido em um número.</br>
+- Um gráfico de barras mostra a evolução do faturamento ao longo do período.</br>
+- Um gráfico de barras mostra a distribuição do faturamento por loja.</br>
+- Faturamento por produto, exibido em uma tabela, com o percentual de participação de cada produto no faturamento total </br>
+- Faturamento por tipo de pagamento é exibido em um gráfico de pizza.</br>
 
-Seção 1: Faturamento Total
-Esta seção apresenta o faturamento total da empresa no período selecionado.
-O valor do faturamento é exibido em um grande número no centro da seção.
-Um gráfico de barras mostra a evolução do faturamento ao longo do período.
-Um gráfico de pizza mostra a distribuição do faturamento por loja.
-Seção 2: Faturamento por Loja
-Esta seção apresenta o faturamento de cada loja no período selecionado.
-Os valores do faturamento são exibidos em uma tabela.
-A tabela também mostra o percentual de participação de cada loja no faturamento total.
-Seção 3: Faturamento por Tipo de Pagamento, Ticket Médio, Faturamento por Período e Faturamento por Produto
-Esta seção apresenta diversas informações sobre o desempenho das vendas da empresa.
-O faturamento por tipo de pagamento é exibido em um gráfico de barras.
-O ticket médio é exibido em um número.
-O faturamento por período é exibido em um gráfico de linhas.
-O faturamento por produto é exibido em uma tabela.
 <h2>Funcionalidades</h2>
 
 O dashboard possui diversas funcionalidades que permitem aos usuários explorar os dados de forma mais aprofundada.
